@@ -93,6 +93,8 @@ The relay module acts as a hardware-level protection unit. When abnormal current
 
 ## 👤 Author
 **Sabarinath S**  
+**Sachin deepak S** 
+**Rohith P** 
 Department of Electronics and Communication Engineering  
 M. Kumarasamy College of Engineering  
 
